@@ -1,0 +1,24 @@
+{
+  "admission_state": "open",
+  "contact": {
+    "address": "Warraichan Road, near Civil Hospital, Samana – 147101, District Patiala (Punjab)",
+    "phones": [
+      "01764‑220093",
+      "01764‑220729",
+      "01764‑501170"
+    ],
+    "email": "pcsamana@yahoo.com"
+  },
+  "gallery": [
+    "assets/img/campus1.svg",
+    "assets/img/campus2.svg",
+    "assets/img/campus3.svg",
+    "assets/img/campus4.svg"
+  ],
+  "links": {
+    "education_college": "#",
+    "collegiate_school": "#",
+    "alumni": "#",
+    "iqac": "#"
+  }
+}
